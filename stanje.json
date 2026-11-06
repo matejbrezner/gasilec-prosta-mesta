@@ -1,0 +1,89 @@
+{
+  "posodobljeno": "5. 11. 2026 ob 14:40",
+  "tecaji": {
+    "INŠ 26 07 | Sežana | 6., 7. november 2026": {
+      "oznaka": "INŠ 26 07",
+      "lokacija": "Sežana",
+      "termin": "6., 7. november 2026",
+      "mesta": 2,
+      "opomba": "ob prijavi je potrebno naložiti potrdilo o izobrazbi v Vulkan"
+    },
+    "VI VGČ EU 26 08 | Sežana | 10. november 2026": {
+      "oznaka": "VI VGČ EU 26 08",
+      "lokacija": "Sežana",
+      "termin": "10. november 2026",
+      "mesta": 5,
+      "opomba": ""
+    },
+    "IDA P 26 14 | Pekre | 12., 13., 14. november 2026": {
+      "oznaka": "IDA P 26 14",
+      "lokacija": "Pekre",
+      "termin": "12., 13., 14. november 2026",
+      "mesta": 2,
+      "opomba": ""
+    },
+    "PRED 2026 | Sežana | 13., 14. november 2026": {
+      "oznaka": "PRED 2026",
+      "lokacija": "Sežana",
+      "termin": "13., 14. november 2026",
+      "mesta": 1,
+      "opomba": ""
+    },
+    "Zaključni izpit GČ- praktični del | Ig | 14. november 2026": {
+      "oznaka": "Zaključni izpit GČ- praktični del",
+      "lokacija": "Ig",
+      "termin": "14. november 2026",
+      "mesta": 4,
+      "opomba": "Obvezna prijava na izobrazevanje@gasilec.net najkasneje do 10.11.2026."
+    },
+    "VI VGČ EU 26 09 | Sežana | 18. november 2026": {
+      "oznaka": "VI VGČ EU 26 09",
+      "lokacija": "Sežana",
+      "termin": "18. november 2026",
+      "mesta": 6,
+      "opomba": ""
+    },
+    "Zaključni izpit NGČ- praktični del | Ig | 21. november 2026": {
+      "oznaka": "Zaključni izpit NGČ- praktični del",
+      "lokacija": "Ig",
+      "termin": "21. november 2026",
+      "mesta": 6,
+      "opomba": "Obvezna prijava na izobrazevanje@gasilec.net najkasneje do 17.11.2026."
+    },
+    "Zaključni izpit NGČ- teoretični del | PGD Sevnica | 22. november 2026": {
+      "oznaka": "Zaključni izpit NGČ- teoretični del",
+      "lokacija": "PGD Sevnica",
+      "termin": "22. november 2026",
+      "mesta": 5,
+      "opomba": "Obvezna prijava na izobrazevanje@gasilec.net najkasneje do 11.11.2026."
+    },
+    "VČL 26 02 | Ig | 27., 28. november, 5. december 2026": {
+      "oznaka": "VČL 26 02",
+      "lokacija": "Ig",
+      "termin": "27., 28. november, 5. december 2026",
+      "mesta": 3,
+      "opomba": ""
+    },
+    "Zaključni izpit NGČ- praktični del | Ig | 28. november 2026": {
+      "oznaka": "Zaključni izpit NGČ- praktični del",
+      "lokacija": "Ig",
+      "termin": "28. november 2026",
+      "mesta": 5,
+      "opomba": "Obvezna prijava na izobrazevanje@gasilec.net najkasneje do 24.11.2026."
+    },
+    "IDA OBN P 26 04 | Pekre | 28. november 2026": {
+      "oznaka": "IDA OBN P 26 04",
+      "lokacija": "Pekre",
+      "termin": "28. november 2026",
+      "mesta": 2,
+      "opomba": ""
+    },
+    "TREN 26 01 | Ig | 3., 4., 5. december 2026": {
+      "oznaka": "TREN 26 01",
+      "lokacija": "Ig",
+      "termin": "3., 4., 5. december 2026",
+      "mesta": 5,
+      "opomba": ""
+    }
+  }
+}
