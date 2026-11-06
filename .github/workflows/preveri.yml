@@ -1,0 +1,42 @@
+name: Preveri prosta mesta
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: preveri
+  cancel-in-progress: false
+
+jobs:
+  preveri:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests beautifulsoup4
+
+      - name: Preveri stran
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          FILTRI: ${{ vars.FILTRI }}
+        run: python preveri.py
+
+      - name: Shrani stanje
+        run: |
+          if [ -n "$(git status --porcelain stanje.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898333+github-actions[bot]@users.noreply.github.com"
+            git add stanje.json
+            git commit -m "Posodobi stanje"
+            git push
+          fi
