@@ -138,7 +138,8 @@ def main() -> int:
             vsebina = "\n\n".join(opis(t) for t in izbrani)
         else:
             vsebina = "Trenutno ni prostih mest za izbrane tečaje."
-        poslji("Spremljanje vklopljeno", f"Filter: {', '.join(FILTRI) or 'vsi'}\n\n{vsebina}", prioriteta=3)
+        naslov = "Nova prosta mesta!" if izbrani else "Spremljanje vklopljeno"
+        poslji(naslov, f"Filter: {', '.join(FILTRI) or 'vsi'}\n\n{vsebina}", prioriteta=4)
     else:
         prej_t = prej.get("tecaji", {})
         nova = []
