@@ -1,5 +1,5 @@
 {
-  "posodobljeno": "11. 11. 2026 ob 7:20",
+  "posodobljeno": "13. 11. 2026 ob 12:30",
   "tecaji": {
     "VI VGČ EU 26 09 | Sežana | 18. november 2026": {
       "oznaka": "VI VGČ EU 26 09",
@@ -42,6 +42,13 @@
       "termin": "3., 4., 5. december 2026",
       "mesta": 5,
       "opomba": ""
+    },
+    "praktične vaje za OG | Ig | 5. december 2026": {
+      "oznaka": "praktične vaje za OG",
+      "lokacija": "Ig",
+      "termin": "5. december 2026",
+      "mesta": 30,
+      "opomba": "prijavo posredujte na izobrazevanje@gasilec.net, najkasneje do 26. 11. 2026"
     }
   }
 }
