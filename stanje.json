@@ -1,11 +1,18 @@
 {
-  "posodobljeno": "13. 11. 2026 ob 12:30",
+  "posodobljeno": "16. 11. 2026 ob 11:30",
   "tecaji": {
     "VI VGČ EU 26 09 | Sežana | 18. november 2026": {
       "oznaka": "VI VGČ EU 26 09",
       "lokacija": "Sežana",
       "termin": "18. november 2026",
-      "mesta": 6,
+      "mesta": 5,
+      "opomba": ""
+    },
+    "MEN 26 06 Notranjska | PGD Grahovo | 20. november 2026": {
+      "oznaka": "MEN 26 06 Notranjska",
+      "lokacija": "PGD Grahovo",
+      "termin": "20. november 2026",
+      "mesta": 1,
       "opomba": ""
     },
     "Zaključni izpit NGČ- praktični del | Ig | 21. november 2026": {
@@ -36,11 +43,18 @@
       "mesta": 5,
       "opomba": ""
     },
+    "IDA P 26 16 | Pekre | 3. december": {
+      "oznaka": "IDA P 26 16",
+      "lokacija": "Pekre",
+      "termin": "3. december",
+      "mesta": 3,
+      "opomba": ""
+    },
     "TREN 26 01 | Ig | 3., 4., 5. december 2026": {
       "oznaka": "TREN 26 01",
       "lokacija": "Ig",
       "termin": "3., 4., 5. december 2026",
-      "mesta": 5,
+      "mesta": 4,
       "opomba": ""
     },
     "praktične vaje za OG | Ig | 5. december 2026": {
