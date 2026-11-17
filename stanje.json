@@ -1,5 +1,5 @@
 {
-  "posodobljeno": "16. 11. 2026 ob 12:15",
+  "posodobljeno": "17. 11. 2026 ob 15:30",
   "tecaji": {
     "VI VGČ EU 26 09 | Sežana | 18. november 2026": {
       "oznaka": "VI VGČ EU 26 09",
@@ -20,14 +20,28 @@
       "lokacija": "Ig",
       "termin": "21. november 2026",
       "mesta": 6,
-      "opomba": "Obvezna prijava na izobrazevanje@gasilec.net najkasneje do 17.11.2026."
+      "opomba": "Obvezna prijava na izobrazevanje@gasilec.net najkasneje do 18.11.2026."
+    },
+    "IDA 26 16 | Ig | 27. november 2026": {
+      "oznaka": "IDA 26 16",
+      "lokacija": "Ig",
+      "termin": "27. november 2026",
+      "mesta": 2,
+      "opomba": ""
     },
     "VČL 26 02 | Ig | 27., 28. november, 5. december 2026": {
       "oznaka": "VČL 26 02",
       "lokacija": "Ig",
       "termin": "27., 28. november, 5. december 2026",
-      "mesta": 3,
+      "mesta": 6,
       "opomba": ""
+    },
+    "Zaključni izpit VG | PGD Zgornje Pirniče | 28. november 2026": {
+      "oznaka": "Zaključni izpit VG",
+      "lokacija": "PGD Zgornje Pirniče",
+      "termin": "28. november 2026",
+      "mesta": 5,
+      "opomba": "Obvezna prijava na izobrazevanje@gasilec.net najkasneje do 19.11.2026."
     },
     "Zaključni izpit NGČ- praktični del | Ig | 28. november 2026": {
       "oznaka": "Zaključni izpit NGČ- praktični del",
@@ -47,7 +61,7 @@
       "oznaka": "IDA P 26 16",
       "lokacija": "Pekre",
       "termin": "3. december",
-      "mesta": 3,
+      "mesta": 2,
       "opomba": ""
     },
     "TREN 26 01 | Ig | 3., 4., 5. december 2026": {
@@ -63,6 +77,20 @@
       "termin": "5. december 2026",
       "mesta": 30,
       "opomba": "prijavo posredujte na izobrazevanje@gasilec.net, najkasneje do 26. 11. 2026"
+    },
+    "IDA P 26 17 | Pekre | 10. december 2026": {
+      "oznaka": "IDA P 26 17",
+      "lokacija": "Pekre",
+      "termin": "10. december 2026",
+      "mesta": 1,
+      "opomba": ""
+    },
+    "IDA 26 21 | Ig | 10. december 2026": {
+      "oznaka": "IDA 26 21",
+      "lokacija": "Ig",
+      "termin": "10. december 2026",
+      "mesta": 1,
+      "opomba": ""
     }
   }
 }
