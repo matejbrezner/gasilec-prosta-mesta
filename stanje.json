@@ -1,18 +1,11 @@
 {
-  "posodobljeno": "17. 11. 2026 ob 15:30",
+  "posodobljeno": "18. 11. 2026 ob 7:55",
   "tecaji": {
     "VI VGČ EU 26 09 | Sežana | 18. november 2026": {
       "oznaka": "VI VGČ EU 26 09",
       "lokacija": "Sežana",
       "termin": "18. november 2026",
       "mesta": 3,
-      "opomba": ""
-    },
-    "MEN 26 06 Notranjska | PGD Grahovo | 20. november 2026": {
-      "oznaka": "MEN 26 06 Notranjska",
-      "lokacija": "PGD Grahovo",
-      "termin": "20. november 2026",
-      "mesta": 1,
       "opomba": ""
     },
     "Zaključni izpit NGČ- praktični del | Ig | 21. november 2026": {
@@ -22,22 +15,15 @@
       "mesta": 6,
       "opomba": "Obvezna prijava na izobrazevanje@gasilec.net najkasneje do 18.11.2026."
     },
-    "IDA 26 16 | Ig | 27. november 2026": {
-      "oznaka": "IDA 26 16",
-      "lokacija": "Ig",
-      "termin": "27. november 2026",
-      "mesta": 2,
-      "opomba": ""
-    },
     "VČL 26 02 | Ig | 27., 28. november, 5. december 2026": {
       "oznaka": "VČL 26 02",
       "lokacija": "Ig",
       "termin": "27., 28. november, 5. december 2026",
-      "mesta": 6,
+      "mesta": 8,
       "opomba": ""
     },
-    "Zaključni izpit VG | PGD Zgornje Pirniče | 28. november 2026": {
-      "oznaka": "Zaključni izpit VG",
+    "Zaključni izpit VG - teoretični in praktični del | PGD Zgornje Pirniče | 28. november 2026": {
+      "oznaka": "Zaključni izpit VG - teoretični in praktični del",
       "lokacija": "PGD Zgornje Pirniče",
       "termin": "28. november 2026",
       "mesta": 5,
@@ -71,6 +57,13 @@
       "mesta": 2,
       "opomba": ""
     },
+    "Zaključni izpit VG - teoretični in praktični del | PGD Gorenja vas | 4. december 2026": {
+      "oznaka": "Zaključni izpit VG - teoretični in praktični del",
+      "lokacija": "PGD Gorenja vas",
+      "termin": "4. december 2026",
+      "mesta": 4,
+      "opomba": "Obvezna prijava na izobrazevanje@gasilec.net najkasneje do 25.11.2026."
+    },
     "praktične vaje za OG | Ig | 5. december 2026": {
       "oznaka": "praktične vaje za OG",
       "lokacija": "Ig",
@@ -81,13 +74,6 @@
     "IDA P 26 17 | Pekre | 10. december 2026": {
       "oznaka": "IDA P 26 17",
       "lokacija": "Pekre",
-      "termin": "10. december 2026",
-      "mesta": 1,
-      "opomba": ""
-    },
-    "IDA 26 21 | Ig | 10. december 2026": {
-      "oznaka": "IDA 26 21",
-      "lokacija": "Ig",
       "termin": "10. december 2026",
       "mesta": 1,
       "opomba": ""
