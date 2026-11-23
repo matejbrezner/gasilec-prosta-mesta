@@ -1,5 +1,5 @@
 {
-  "posodobljeno": "20. 11. 2026 ob 9:10",
+  "posodobljeno": "23. 11. 2026 ob 15:00",
   "tecaji": {
     "VČL 26 02 | Ig | 27., 28. november, 5. december 2026": {
       "oznaka": "VČL 26 02",
@@ -22,11 +22,18 @@
       "mesta": 6,
       "opomba": ""
     },
-    "IDA P 26 16 | Pekre | 3. december": {
+    "IDA 26 17 | Ig | 2. december 2026": {
+      "oznaka": "IDA 26 17",
+      "lokacija": "Ig",
+      "termin": "2. december 2026",
+      "mesta": 1,
+      "opomba": ""
+    },
+    "IDA P 26 16 | Pekre | 3. december 2026": {
       "oznaka": "IDA P 26 16",
       "lokacija": "Pekre",
-      "termin": "3. december",
-      "mesta": 3,
+      "termin": "3. december 2026",
+      "mesta": 5,
       "opomba": ""
     },
     "TREN 26 01 | Ig | 3., 4., 5. december 2026": {
