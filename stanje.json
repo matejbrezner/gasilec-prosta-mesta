@@ -22,17 +22,10 @@
       "mesta": 6,
       "opomba": ""
     },
-    "IDA 26 17 | Ig | 2. december 2026": {
-      "oznaka": "IDA 26 17",
-      "lokacija": "Ig",
-      "termin": "2. december 2026",
-      "mesta": 1,
-      "opomba": ""
-    },
-    "IDA P 26 16 | Pekre | 3. december 2026": {
+    "IDA P 26 16 | Pekre | 3., 4., 5. december 2026": {
       "oznaka": "IDA P 26 16",
       "lokacija": "Pekre",
-      "termin": "3. december 2026",
+      "termin": "3., 4., 5. december 2026",
       "mesta": 5,
       "opomba": ""
     },
@@ -57,10 +50,10 @@
       "mesta": 30,
       "opomba": "prijavo posredujte na izobrazevanje@gasilec.net, najkasneje do 26. 11. 2026"
     },
-    "IDA P 26 17 | Pekre | 10. december 2026": {
-      "oznaka": "IDA P 26 17",
-      "lokacija": "Pekre",
-      "termin": "10. december 2026",
+    "IDA 26 22 | Ig | 11., 12. december 2026": {
+      "oznaka": "IDA 26 22",
+      "lokacija": "Ig",
+      "termin": "11., 12. december 2026",
       "mesta": 1,
       "opomba": ""
     }
