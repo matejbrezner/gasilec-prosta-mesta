@@ -43,19 +43,19 @@
       "mesta": 4,
       "opomba": "Obvezna prijava na izobrazevanje@gasilec.net najkasneje do 25.11.2026."
     },
-    "praktične vaje za OG | Ig | 5. december 2026": {
-      "oznaka": "praktične vaje za OG",
-      "lokacija": "Ig",
-      "termin": "5. december 2026",
-      "mesta": 30,
-      "opomba": "prijavo posredujte na izobrazevanje@gasilec.net, najkasneje do 26. 11. 2026"
-    },
     "IDA 26 22 | Ig | 11., 12. december 2026": {
       "oznaka": "IDA 26 22",
       "lokacija": "Ig",
       "termin": "11., 12. december 2026",
       "mesta": 1,
       "opomba": ""
+    },
+    "praktične vaje za OG | Ig | 12. december 2026": {
+      "oznaka": "praktične vaje za OG",
+      "lokacija": "Ig",
+      "termin": "12. december 2026",
+      "mesta": 30,
+      "opomba": "prijavo posredujte na izobrazevanje@gasilec.net, najkasneje do 2. 12. 2026"
     }
   }
 }
