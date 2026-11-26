@@ -1,5 +1,5 @@
 {
-  "posodobljeno": "23. 11. 2026 ob 15:00",
+  "posodobljeno": "26. 11. 2026 ob 10:00",
   "tecaji": {
     "VČL 26 02 | Ig | 27., 28. november, 5. december 2026": {
       "oznaka": "VČL 26 02",
@@ -7,13 +7,6 @@
       "termin": "27., 28. november, 5. december 2026",
       "mesta": 8,
       "opomba": ""
-    },
-    "Zaključni izpit NGČ- praktični del | Ig | 28. november 2026": {
-      "oznaka": "Zaključni izpit NGČ- praktični del",
-      "lokacija": "Ig",
-      "termin": "28. november 2026",
-      "mesta": 5,
-      "opomba": "Obvezna prijava na izobrazevanje@gasilec.net najkasneje do 24.11.2026."
     },
     "IDA OBN P 26 04 | Pekre | 28. november 2026": {
       "oznaka": "IDA OBN P 26 04",
@@ -26,7 +19,7 @@
       "oznaka": "IDA P 26 16",
       "lokacija": "Pekre",
       "termin": "3., 4., 5. december 2026",
-      "mesta": 5,
+      "mesta": 6,
       "opomba": ""
     },
     "TREN 26 01 | Ig | 3., 4., 5. december 2026": {
@@ -36,17 +29,10 @@
       "mesta": 2,
       "opomba": ""
     },
-    "Zaključni izpit VG - teoretični in praktični del | PGD Gorenja vas | 4. december 2026": {
-      "oznaka": "Zaključni izpit VG - teoretični in praktični del",
-      "lokacija": "PGD Gorenja vas",
-      "termin": "4. december 2026",
-      "mesta": 4,
-      "opomba": "Obvezna prijava na izobrazevanje@gasilec.net najkasneje do 25.11.2026."
-    },
-    "IDA 26 22 | Ig | 11., 12. december 2026": {
-      "oznaka": "IDA 26 22",
-      "lokacija": "Ig",
-      "termin": "11., 12. december 2026",
+    "IDA P 26 17 | Pekre | 10., 11., 12. december 2026": {
+      "oznaka": "IDA P 26 17",
+      "lokacija": "Pekre",
+      "termin": "10., 11., 12. december 2026",
       "mesta": 1,
       "opomba": ""
     },
